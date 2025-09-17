@@ -24,4 +24,4 @@ O projeto foi desenvolvido com **HTML, CSS e JavaScript**, sem uso de frameworks
 
 3. Abra o arquivo index.html diretamente em seu navegador (basta dar duplo clique no arquivo ou arrastar para uma janela do navegador).
 
-Não é necessário instalar dependências ou servidor adicional, pois o projeto utiliza apenas tecnologias básicas do front-end.
+>  Não é necessário instalar dependências ou servidor adicional, pois o projeto utiliza apenas tecnologias básicas do front-end.
